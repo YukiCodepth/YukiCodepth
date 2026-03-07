@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm aman ✌🏻</h2>
 <p align="center">
-  ECE Student | Exploring Embedded Systems, Linux, IOTs & AI/ML
+  ECE Student | Exploring Embedded Systems, Linux, Edge AI, AIOTs & AI/ML
 </p>
 
 
@@ -11,7 +11,7 @@ Currently building my foundation step by step.
 
 ### ⌨️ What am I working on?
 - Improving my programming skills  
-- Learning Embedded Systems & IoT  
+- Learning Embedded Systems & AIoT  
 - Exploring AI and basic Cloud concepts  
 
 
