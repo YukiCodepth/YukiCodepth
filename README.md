@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm aman ✌🏻</h2>
 <p align="center">
-  ECE Student | Exploring Embedded Systems, Linux, Edge AI, AIOTs & AI/ML
+  ECE Student | Exploring Embedded Systems, AIoT, Linux, Edge AI, ML
 </p>
 
 
