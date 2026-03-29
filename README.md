@@ -1,5 +1,5 @@
-<div align="center">
-  ###Linux Birthday... 15aug 🪼
+<div align="right">
+  ###Linux Birthday soon.. 15aug 🪼
 </div>  
 
 <div align="center">
