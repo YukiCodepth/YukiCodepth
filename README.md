@@ -36,9 +36,8 @@ Building foundations — one register at a time.
 > `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwcGI4dGloaDhwMzNxdnI0bGc4dXIwNGFnZmZ4eXZwdGpuYWl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwcGI4dGloaDhwMzNxdnI0bGc4dXIwNGFnZmZ4eXZwdGpuYWl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px"/>
 </div>
-## 📊 GitHub Stats
 
 <div align="center">
 
