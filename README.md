@@ -126,26 +126,3 @@ Building foundations — one register at a time.
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm93NXppNnM1NnliZTRpaGdkNGo1c2hubXVkMTBydGQ1aGlkdWlkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YukiCodepth.YukiCodepth&left_color=0d0d0d&right_color=00ffe7&left_text=visitors"/>
-
-<br/><br/>
-
-```
-░█░█░█░█░█░█░█▀▀░█▀▀░█▀▀░█▀█░█▀▄░█▀▀░█▀█░▀█▀░█░█
-░░█░░█░█░█░█░█░█░█░░░█░█░█░█░█░█░█▀▀░█▀▀░░█░░█▀█
-░░▀░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░░░░▀░░▀░▀
-         Bengaluru · ECE · Edge AI · Building 🔧
-```
-
-</div>
