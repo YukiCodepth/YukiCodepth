@@ -48,9 +48,6 @@ Building foundations — one register at a time.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YukiCodepth&show_icons=true&bg_color=0d0d0d&border_color=00ffe7&icon_color=00ffe7&title_color=00ffe7&text_color=aaaaaa&count_private=true&rank_icon=github" height="170px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiCodepth&layout=compact&bg_color=0d0d0d&border_color=00ffe7&title_color=00ffe7&text_color=aaaaaa" height="170px"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YukiCodepth&background=0d0d0d&border=00ffe7&ring=00ffe7&fire=ff4d6d&currStreakLabel=00ffe7&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=cccccc" width="60%"/>
