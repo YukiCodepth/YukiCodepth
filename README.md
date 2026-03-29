@@ -10,6 +10,7 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="125px" align="left"/>
+<img src="https://img.itch.zone/aW1hZ2UvMTk5NDMzLzk3MjcxOS5naWY=/original/GfFQdY.gif" width="125px" align="right"/>
 
 ### I make hardware think like AI 🤖
 
