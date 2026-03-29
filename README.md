@@ -28,12 +28,6 @@ Building foundations — one register at a time.
 
 </div>
 
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanI4cjlqNWh5NzlzeGNubzlocTdxNGJ4Nm9jdnZkaGd0NGI4bXdpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
-</div>
-
 ## 🛠️ Currently Building
 
 > **✏️ `[ YOUR PROJECT NAME HERE ]`**
