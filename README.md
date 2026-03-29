@@ -38,7 +38,7 @@ Building foundations — one register at a time.
 > `C / C++` &nbsp;·&nbsp; `Raspberry Pi` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; *(add your stack)*
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwcGI4dGloaDhwMzNxdnI0bGc4dXIwNGFnZmZ4eXZwdGpuYWl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwcGI4dGloaDhwMzNxdnI0bGc4dXIwNGFnZmZ4eXZwdGpuYWl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px"/>
 </div>
 
 ---
