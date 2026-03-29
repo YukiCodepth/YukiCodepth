@@ -30,12 +30,11 @@ Building foundations — one register at a time.
 
 ## 🛠️ Currently Building
 
-> **✏️ `[ YOUR PROJECT NAME HERE ]`**
+> **✏️ `[ Yukishell]`**
 >
-> What it does in one punchy sentence. What problem it solves.
-> What you're learning from it.
->
-> `C / C++` &nbsp;·&nbsp; `Raspberry Pi` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; *(add your stack)*
+> Next-gen Terminal for people who use terminal for fun & ease .
+> I'm learning how linux & terminal works from this project .
+> `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwcGI4dGloaDhwMzNxdnI0bGc4dXIwNGFnZmZ4eXZwdGpuYWl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px"/>
