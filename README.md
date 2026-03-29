@@ -41,43 +41,6 @@ Building foundations — one register at a time.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwcGI4dGloaDhwMzNxdnI0bGc4dXIwNGFnZmZ4eXZwdGpuYWl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px"/>
 </div>
 
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXkxdGFxanFzaXBxbWpxaXZodGRkMHkzYnR2aHkxZDdhNng2Nnp3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="80px" style="object-fit:cover;"/>
-
-<br/><br/>
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark&perline=3"/>
-
-<br/><br/>
-
-**Hardware & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark&perline=3"/>
-<br/>
-<img src="https://img.shields.io/badge/ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
-<br/><br/>
-
-**AI / ML & Edge**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-<img src="https://img.shields.io/badge/Edge_AI-00FFE7?style=for-the-badge&logo=nvidia&logoColor=black"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<br/><br/>
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark&perline=4"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
