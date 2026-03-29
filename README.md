@@ -1,17 +1,5 @@
 <div align="center">
 
-<!-- ANIMATED HEADER GIF - Circuit/Cyber -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4NnZtNWdtNHFtY2Q1amd6bXZxcm9tNHVxaHVlcHF4NnVjdW83eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-<!-- NAME TYPING -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=800&color=00FFE7&center=true&vCenter=true&width=750&height=80&lines=Hey+%F0%9F%91%8B+I'm+Aman+Kumar;aka+YukiCodepth+%F0%9F%96%A5%EF%B8%8F;ECE+Student+%7C+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI4NHVsMHkwcG56ZmV3eW91NTNjaWdpZm1kd2N5bm1ic3d3NXlpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180px" align="left"/>
