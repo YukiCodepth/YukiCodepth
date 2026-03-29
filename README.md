@@ -41,9 +41,6 @@ and how neural nets talk to each other.
 
 <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="150px"/>
 
-<br/><br/>
-<div align="center">
+<div align="right">
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60px"/> &nbsp; *kernel is compiling your stats...*
-
-<br/><br/>
