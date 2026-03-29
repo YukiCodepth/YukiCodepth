@@ -7,6 +7,12 @@
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI4NHVsMHkwcG56ZmV3eW91NTNjaWdpZm1kd2N5bm1ic3d3NXlpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180px" align="left"/>
+
 ### I make hardware think 🤖
 
 ```
