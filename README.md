@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GLOWING STATIC TITLE -->
-![welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=999999&color=FF2DAA&center=true&vCenter=true&width=750&height=70&lines=Welcome+to+aman's+github+%E2%9C%A6)
+![welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=999999&color=FCEE0C&center=true&vCenter=true&width=750&height=70&lines=Welcome+to+aman's+github+%E2%9C%A6)
 
 </div>
 
