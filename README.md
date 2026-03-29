@@ -17,9 +17,6 @@
 Electronics & Communication Engineering student
 who loves digging into how linux kernels work,
 and how neural nets talk to each other.
-
-Currently in SRMIST Chennai 🇮🇳
-Building foundations — one register at a time.
 ```
 
 <br clear="both"/>
