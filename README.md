@@ -37,13 +37,13 @@ and how neural nets talk to each other.
 
 <!-- cat gif + linux funny gif side by side -->
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" width="150px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://www.picmix.com/pic/download?picId=12775432&key=223a8" width="150px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="centre">
 
