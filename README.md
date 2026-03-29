@@ -28,7 +28,7 @@ Building foundations — one register at a time.
 
 ---
 
-## 🛠️ Currently Building
+## 🛠️ Currently Building:
 
 <div align="center">
 
@@ -41,6 +41,7 @@ Building foundations — one register at a time.
 <!-- cat gif + linux funny gif side by side -->
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px"/>
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="150px"/>
 
 <br/><br/>
