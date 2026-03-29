@@ -13,14 +13,14 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI4NHVsMHkwcG56ZmV3eW91NTNjaWdpZm1kd2N5bm1ic3d3NXlpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180px" align="left"/>
 
-### I make hardware think 🤖
+### I make hardware think like AI 🤖
 
 ```
 Electronics & Communication Engineering student
-who loves digging into how chips, kernels,
+who loves digging into how linux kernels works,
 and neural nets talk to each other.
 
-Currently based in Bengaluru 🇮🇳
+Currently in srmist chennai🇮🇳
 Building foundations — one register at a time.
 ```
 
@@ -33,7 +33,6 @@ Building foundations — one register at a time.
 > **✏️ `[ Yukishell]`**
 >
 > Next-gen Terminal for people who use terminal for fun & ease .
-> I'm learning how linux & terminal works from this project .
 > `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
 
 <div align="center">
