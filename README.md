@@ -34,9 +34,7 @@ and how neural nets talk to each other.
 
 <div align="center">
 
-**`Yukishell`** &nbsp;—&nbsp; Next-gen Terminal for people who use the terminal for fun & ease
-
-`C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
+**`Yukishell`** &nbsp;—&nbsp; Next-gen Terminal for people who use the terminal for fun & ease &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
 
 <br/>
 
