@@ -57,30 +57,4 @@ Building foundations — one register at a time.
 
 </div>
 
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW83N3B3bm8xeHV5Zm1mNXY3M3d4bGlhM3I5dGNmZnE1ZXRhb2lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p9rvYFZmM/giphy.gif" width="200px"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/aman-kumar-429086299/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/iamankr886">
-<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://yukicodepth.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-00FFE7?style=for-the-badge&logo=githubpages&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://huggingface.co/YukiCodepth">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
 </div>
