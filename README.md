@@ -1,9 +1,8 @@
 <div align="right">
 Linux Birthday soon.. 25aug 🪼
 </div>  
-
 <div align="left">
-‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡
+‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯❯ ⌞</>{모}⌝
 </div> 
 
 <div align="center">
