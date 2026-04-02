@@ -1,9 +1,6 @@
 <div align="right">
 Linux Birthday soon.. 25aug 🪼
 </div>  
-<div align="left">
-‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯❯ ⌞</>{모}⌝
-</div> 
 
 <div align="center">
 
@@ -33,7 +30,7 @@ and how neural nets talk to each other...
 
 ---
 
-## 🛠️ Currently Building:
+## 🛠️ Currently Building: ‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯❯ ⌞</>{모}⌝
 
 <div align="center">
 
