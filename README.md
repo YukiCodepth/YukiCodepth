@@ -19,11 +19,7 @@ Linux Birthday soon.. 25aug 🪼
 
 ### I make hardware think like AI 🤖
 
-```
-Electronics & Communication Engineering student
-who loves digging into how linux kernels work,
-and how neural nets talk to each other...
-```
+‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯❯ ⌞</>{모}⌝
 
 <br clear="both"/>
 
