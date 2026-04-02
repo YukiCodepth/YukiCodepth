@@ -2,6 +2,7 @@
 Linux Birthday soon.. 25aug 🪼
 </div>  
 
+
 <div align="center">
 
 <!-- GLOWING STATIC TITLE -->
@@ -30,7 +31,7 @@ and how neural nets talk to each other...
 
 ---
 
-## 🛠️ Currently Building: ‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯❯ ⌞</>{모}⌝
+## 🛠️ Currently Building: [Yukishell]
 
 <div align="center">
 
