@@ -2,6 +2,10 @@
 Linux Birthday soon.. 25aug 🪼
 </div>  
 
+<div align="left">
+‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡
+</div> 
+
 <div align="center">
 
 <!-- GLOWING STATIC TITLE -->
