@@ -19,7 +19,7 @@ Linux Birthday soon.. 25aug 🪼
 ### I make hardware think like AI 🤖
 
 ```
-‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯❯ ⌞</>{모}⌝
+‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯ ⌞</>⌝
 ```
 <br clear="both"/>
 
