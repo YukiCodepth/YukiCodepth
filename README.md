@@ -1,7 +1,8 @@
-
+```
 <div align="right">
 Linux Birthday soon.. 25aug 🪼
 </div>  
+```
 
 <div align="center">
 
@@ -31,6 +32,7 @@ Linux Birthday soon.. 25aug 🪼
 ## 🛠️ Currently Building: [Yukishell]
 
 <div align="center">
+  
 **`Yukishell`** &nbsp;—&nbsp; Next-gen Terminal for people who use the terminal for fun & ease &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
 <br/>
 
