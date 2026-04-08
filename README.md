@@ -18,7 +18,9 @@ Linux Birthday soon.. 25aug 🪼
 
 ### I make hardware think like AI 🤖
 
+```
 ‧₊˚🖇️✩ Dream_Catcher…˚🎧⊹♡ ❯❯❯ </>
+```
 <br clear="both"/>
 
 </div>
@@ -28,9 +30,9 @@ Linux Birthday soon.. 25aug 🪼
 ## 🛠️ Currently Building: [Yukishell]
 
 <div align="center">
-
+```
 **`Yukishell`** &nbsp;—&nbsp; Next-gen Terminal for people who use the terminal for fun & ease &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
-
+```
 <br/>
 
 <!-- cat gif + linux funny gif side by side -->
