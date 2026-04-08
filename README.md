@@ -34,6 +34,8 @@ Linux Birthday soon.. 25aug 🪼
 **`Yukishell`** &nbsp;—&nbsp; Next-gen Terminal for people who use the terminal for fun & ease &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
 <br/>
 
+---
+
 <!-- cat gif + linux funny gif side by side -->
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="125px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
