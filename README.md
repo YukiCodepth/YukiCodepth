@@ -47,4 +47,6 @@ Linux Birthday soon.. 25aug 🪼
 
 <div align="centre">
 
+---
+
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60px"/> &nbsp; *kernel is compiling your stats...*
