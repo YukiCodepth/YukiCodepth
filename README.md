@@ -41,7 +41,7 @@ Linux Birthday soon.. 25aug 🪼
 <img src="https://1.bp.blogspot.com/-3PF7Qze3GA8/YSN1DD1GhrI/AAAAAAAAe0c/xVDl9Y7R3iUMBBkk-DwBfz2fGA2HAH1pwCLcBGAsYHQ/s384/Y0KcmH.gif" width="170px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" width="325px"/>
+<img src="https://giffiles.alphacoders.com/223/223475.gif" width="325px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://giffiles.alphacoders.com/223/223475.gif" width="50px"/>
