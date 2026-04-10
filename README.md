@@ -44,7 +44,7 @@ Linux Birthday soon.. 25aug 🪼
 <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" width="325px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://64.media.tumblr.com/b5391b3d1cfd9231ee0a044edd9f334c/tumblr_mji8cbwQ921r34zhyo2_500.gifv" width="170px"/>
+<img src="https://64.media.tumblr.com/b5391b3d1cfd9231ee0a044edd9f334c/tumblr_mji8cbwQ921r34zhyo2_500.gifv" width="240px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="centre">
