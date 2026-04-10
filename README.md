@@ -13,7 +13,7 @@ Linux Birthday soon.. 25aug 🪼
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="125px" align="left"/>
+<img src="https://i.pinimg.com/originals/62/da/61/62da615e1c6e29ab501928aba4a20b5b.gif" width="125px" align="left"/>
 <img src="https://img.itch.zone/aW1hZ2UvMTk5NDMzLzk3MjcxOS5naWY=/original/GfFQdY.gif" width="130px" align="right"/>
 
 ### I make hardware think like AI 🤖
