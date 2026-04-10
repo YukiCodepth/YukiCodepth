@@ -14,7 +14,7 @@ Linux Birthday soon.. 25aug 🪼
 <div align="center">
 
 <img src="https://images.steamusercontent.com/ugc/2479886028967757074/3FCB930A84A11205D59B427DFE9EDFBDE01BE0FA/" width="220px" align="left"/>
-<img src="https://64.media.tumblr.com/b5391b3d1cfd9231ee0a044edd9f334c/tumblr_mji8cbwQ921r34zhyo2_500.gifv" width="220px" align="right"/>
+<img src="https://64.media.tumblr.com/b5391b3d1cfd9231ee0a044edd9f334c/tumblr_mji8cbwQ921r34zhyo2_500.gifv" width="200px" align="right"/>
 
 ### I make hardware think like AI 🤖
 
