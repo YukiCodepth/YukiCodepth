@@ -13,8 +13,8 @@ Linux Birthday soon.. 25aug 🪼
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="125px" align="left"/>
-<img src="https://www.picmix.com/pic/download?picId=12765851&key=2c6d9" width="130px" align="right"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140px" align="left"/>
+<img src="https://www.picmix.com/pic/download?picId=12765851&key=2c6d9" width="140px" align="right"/>
 
 ### I make hardware think like AI 🤖
 
@@ -39,13 +39,13 @@ Linux Birthday soon.. 25aug 🪼
 
 <!-- cat gif + linux funny gif side by side -->
 <img src="https://1.bp.blogspot.com/-3PF7Qze3GA8/YSN1DD1GhrI/AAAAAAAAe0c/xVDl9Y7R3iUMBBkk-DwBfz2fGA2HAH1pwCLcBGAsYHQ/s384/Y0KcmH.gif" width="180px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://i.redd.it/tf20cpphwyi81.gif" width="325px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://www.picmix.com/pic/download?picId=12775432&key=223a8" width="180px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="centre">
 
