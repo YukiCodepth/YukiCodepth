@@ -36,6 +36,7 @@ Linux Birthday soon.. 25aug 🪼
 <br/>
 
 ---
+
 <!-- cat gif + linux funny gif side by side -->
 <img src="https://1.bp.blogspot.com/-3PF7Qze3GA8/YSN1DD1GhrI/AAAAAAAAe0c/xVDl9Y7R3iUMBBkk-DwBfz2fGA2HAH1pwCLcBGAsYHQ/s384/Y0KcmH.gif" width="170px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
