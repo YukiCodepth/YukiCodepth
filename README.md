@@ -27,7 +27,6 @@ Linux Birthday soon.. 25aug 🪼
 </div>
 
 ---
-
 ## 🛠️ Currently Building: [Yukishell]
 
 <div align="center">
