@@ -19,7 +19,7 @@ Linux Birthday soon.. 25aug 🪼
 ### I make hardware think like AI 🤖
 
 ```
-Want to be a linux developer Hmm..
+Want to be a linux developer and contributor hmmm..
 
 ```
 <br clear="both"/>
