@@ -8,14 +8,15 @@
 
 <div align="center">
 
-<img src="https://images.steamusercontent.com/ugc/2479886028967757074/3FCB930A84A11205D59B427DFE9EDFBDE01BE0FA/" width="230px" align="left"/>
+<img src="https://images.steamusercontent.com/ugc/2479886028967757074/3FCB930A84A11205D59B427DFE9EDFBDE01BE0FA/" width="240px" align="left"/>
 
-<img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="130px" align="right"/>
+<img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="150px" align="right"/>
 
 # I make hardware think like AI 🤖
 
 ```bash
-Embedded Systems Developer Building systems where AI, firmware, Linux & cybersecurity meet.
+Embedded Systems Developer Building systems
+Where AI, firmware, Linux & cybersecurity meet.
 ````
 
 <br clear="both"/>
@@ -31,7 +32,6 @@ Embedded Systems Developer Building systems where AI, firmware, Linux & cybersec
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
