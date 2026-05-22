@@ -1,7 +1,3 @@
-<div align="right">
-Linux Birthday soon.. 25 Aug 🐧
-</div>
-
 <div align="center">
 
 ![welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=999999&color=48bf53&center=true&vCenter=true&width=750&height=70&lines=Welcome+to+Aman's+GitHub+✦)
@@ -29,7 +25,7 @@ Building systems where AI, firmware, Linux & cybersecurity meet.
 
 ---
 
-# 🧠 About Me
+# About Me
 
 ```yaml
 name: Aman Kumar
@@ -74,7 +70,7 @@ interests:
 
 ---
 
-# 🛠️ Currently Building: FlashDock Platform
+# Currently Building: FlashDock Platform
 
 <div align="center">
 
@@ -96,7 +92,7 @@ FlashDock Platform, a premium terminal framework made especially for microcontro
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🔹 [FlashDock Platform](https://github.com/YukiCodepth/flashdock-platform)
 
