@@ -8,50 +8,22 @@
 
 <div align="center">
 
-<img src="https://images.steamusercontent.com/ugc/2479886028967757074/3FCB930A84A11205D59B427DFE9EDFBDE01BE0FA/" width="220px" align="left"/>
+<img src="https://images.steamusercontent.com/ugc/2479886028967757074/3FCB930A84A11205D59B427DFE9EDFBDE01BE0FA/" width="230px" align="left"/>
 
-<img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="120px" align="right"/>
+<img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="130px" align="right"/>
 
 # I make hardware think like AI 🤖
 
 ```bash
-Linux • Embedded Systems Developer
-Building systems where AI, firmware, Linux & cybersecurity meet.
+Embedded Systems Developer Building systems where AI, firmware, Linux & cybersecurity meet.
 ````
 
 <br clear="both"/>
 
 </div>
 
----
 
-# About Me
-
-```yaml
-name: Aman Kumar
-alias: YukiCodepth
-role: Embedded Systems & Linux Developer
-currently_learning:
-  - Embedded Linux
-  - Linux Kernel Internals
-  - Device Drivers
-  - RTOS & FreeRTOS
-  - Cybersecurity Fundamentals
-  - Edge AI & AIoT
-  - DevOps for Embedded Systems
-
-interests:
-  - Linux Kernel Development
-  - Embedded Firmware
-  - IoT Systems
-  - Cybersecurity
-  - Open Source
-  - AI-powered Systems
-```
-
----
-
-# ⚡ Core Stack
+# Core Stack
 
 <div align="center">
 
@@ -117,20 +89,7 @@ FlashDock Platform, a premium terminal framework made especially for microcontro
 * Shell architecture
 * Process handling
 * Terminal tooling
-
----
-
-## 🔹 [AI Dev Station](https://github.com/YukiCodepth/ai-dev-station)
-
-> AI-assisted developer workstation setup & productivity environment.
-
-### Focus:
-
-* Linux setup
-* Dev workflows
-* AI tooling
-* Developer automation
-
+* 
 ---
 
 ## 🔹 [Autonomous Learning Agent](https://github.com/YukiCodepth/Designing-an-Autonomous-Learning-Agent-with-Checkpoint-Verification-and-Feynman-Pedagogy)
