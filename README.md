@@ -19,7 +19,7 @@ Linux Birthday soon.. 25 Aug 🐧
 # I make hardware think like AI 🤖
 
 ```bash
-ECE Student • Linux Enthusiast • Embedded Systems Developer
+Linux Enthusiast • Embedded Systems Developer
 Building systems where AI, firmware, Linux & cybersecurity meet.
 ````
 
@@ -51,14 +51,6 @@ interests:
   - Cybersecurity
   - Open Source
   - AI-powered Systems
-  - Low-level Programming
-
-future_roles:
-  - Embedded Linux Engineer
-  - Firmware Engineer
-  - Linux Kernel Contributor
-  - AIoT Engineer
-  - Security Researcher
 ```
 
 ---
