@@ -1,11 +1,13 @@
+# 🚀 GitHub Profile README — Upgraded Version
+
+````md
 <div align="right">
-Linux Birthday soon.. 25aug 🪼
-</div>  
+Linux Birthday soon.. 25 Aug 🐧
+</div>
 
 <div align="center">
 
-<!-- GLOWING STATIC TITLE -->
-![welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=999999&color=48bf53&center=true&vCenter=true&width=750&height=70&lines=Welcome+to+aman's+github%E2%9C%A6)
+![welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=999999&color=48bf53&center=true&vCenter=true&width=750&height=70&lines=Welcome+to+Aman's+GitHub+✦)
 
 </div>
 
@@ -17,38 +19,248 @@ Linux Birthday soon.. 25aug 🪼
 
 <img src="https://img1.picmix.com/output/pic/normal/1/5/8/5/12765851_2c6d9.gif" width="140px" align="right"/>
 
-### I make hardware think like AI 🤖
+# I make hardware think like AI 🤖
 
-```
-Want to be a linux developer and contributor hmmm..
-```
+```bash
+ECE Student • Linux Enthusiast • Embedded Systems Developer
+Building systems where AI, firmware, Linux & cybersecurity meet.
+````
+
 <br clear="both"/>
 
 </div>
 
 ---
 
-## 🛠️ Currently Building: [Yukishell]
+# 🧠 About Me
+
+```yaml
+name: Aman Kumar
+alias: YukiCodepth
+role: Embedded Systems & Linux Developer
+currently_learning:
+  - Embedded Linux
+  - Linux Kernel Internals
+  - Device Drivers
+  - RTOS & FreeRTOS
+  - Cybersecurity Fundamentals
+  - Edge AI & AIoT
+  - DevOps for Embedded Systems
+
+interests:
+  - Linux Kernel Development
+  - Embedded Firmware
+  - IoT Systems
+  - Cybersecurity
+  - Open Source
+  - AI-powered Systems
+  - Low-level Programming
+
+future_roles:
+  - Embedded Linux Engineer
+  - Firmware Engineer
+  - Linux Kernel Contributor
+  - AIoT Engineer
+  - Security Researcher
+```
+
+---
+
+# ⚡ Core Stack
 
 <div align="center">
-  
-**`Yukishell`** &nbsp;—&nbsp; Next-gen Terminal for people who use the terminal for fun & ease &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Terminal`
-<br/>
+
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-111111?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge)
+
+</div>
 
 ---
 
-<!-- cat gif + linux funny gif side by side -->
+# 🛠️ Currently Building: Yukishell
+
+<div align="center">
+
+### `Yukishell`
+
+Next-gen terminal for people who use the terminal for fun & ease.
+
+`C` • `Linux` • `Shell Internals` • `Terminal UI`
+
+---
+
 <img src="https://1.bp.blogspot.com/-3PF7Qze3GA8/YSN1DD1GhrI/AAAAAAAAe0c/xVDl9Y7R3iUMBBkk-DwBfz2fGA2HAH1pwCLcBGAsYHQ/s384/Y0KcmH.gif" width="170px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" width="325px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif" width="225px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div align="centre">
+</div>
 
 ---
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60px"/> &nbsp; *kernel is compiling your stats...*
+# 🚀 Featured Projects
+
+## 🔹 [FlashDock Platform](https://github.com/YukiCodepth/flashdock-platform)
+
+> AI-powered development ecosystem currently under active development.
+
+### Focus:
+
+* AI workflows
+* Automation systems
+* Productivity tooling
+* Developer ecosystem design
+
+---
+
+## 🔹 [Yukishell](https://github.com/YukiCodepth/yukishell)
+
+> Custom Linux shell focused on terminal experience, customization & learning shell internals.
+
+### Focus:
+
+* Linux internals
+* Shell architecture
+* Process handling
+* Terminal tooling
+
+---
+
+## 🔹 [AI Dev Station](https://github.com/YukiCodepth/ai-dev-station)
+
+> AI-assisted developer workstation setup & productivity environment.
+
+### Focus:
+
+* Linux setup
+* Dev workflows
+* AI tooling
+* Developer automation
+
+---
+
+## 🔹 [Autonomous Learning Agent](https://github.com/YukiCodepth/Designing-an-Autonomous-Learning-Agent-with-Checkpoint-Verification-and-Feynman-Pedagogy)
+
+> Experimental AI learning system using checkpoint verification & Feynman-style pedagogy.
+
+### Focus:
+
+* AI systems
+* Learning models
+* Knowledge verification
+* Autonomous reasoning
+
+---
+
+# 🌱 Currently Learning
+
+```txt
+> Linux Kernel Internals
+> Embedded Linux Development
+> FreeRTOS & RTOS Concepts
+> Cybersecurity & System Security
+> Device Driver Development
+> GitHub Actions & CI/CD
+> Edge AI & TinyML
+> Open Source Contribution Workflow
+```
+
+---
+
+# 🎯 Goals
+
+* Contribute to Linux & Open Source
+* Build advanced embedded/Linux projects
+* Become an Embedded Linux Engineer
+* Create AI-powered system tools
+* Learn low-level systems programming
+* Contribute to cybersecurity tooling
+* Build developer-focused platforms
+
+---
+
+# 🐧 Open Source Journey
+
+```txt
+Current Mission:
+Learn → Build → Contribute → Collaborate → Maintain
+```
+
+Planning to contribute to:
+
+* Linux ecosystem projects
+* Embedded tooling
+* Security tools
+* Developer utilities
+* AI + Linux integrations
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiCodepth\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiCodepth\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+# ⚙️ Developer Philosophy
+
+```cpp
+while(alive){
+    learn();
+    build();
+    break_things();
+    fix_things();
+    contribute();
+}
+```
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60px"/>
+
+*kernel is compiling your stats...*
+
+</div>
+```
+
+## Extra Suggestions
+
+### Repositories you should create next
+
+* `linux-notes`
+* `rtos-playground`
+* `embedded-linux-lab`
+* `cybersec-labs`
+* `kernel-learning`
+* `iot-security-lab`
+* `firmware-ci-cd`
+
+### Things that will make your GitHub look advanced
+
+* GitHub Actions CI/CD
+* Proper README diagrams
+* Project screenshots
+* Architecture diagrams
+* Releases & tags
+* Contribution heat consistency
+* Good documentation
+* Open-source pull requests
+* GitHub Pages portfolio
+* Writing technical blogs
