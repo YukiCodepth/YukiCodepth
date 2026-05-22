@@ -1,6 +1,3 @@
-# 🚀 GitHub Profile README — Upgraded Version
-
-````md
 <div align="right">
 Linux Birthday soon.. 25 Aug 🐧
 </div>
@@ -85,15 +82,15 @@ future_roles:
 
 ---
 
-# 🛠️ Currently Building: Yukishell
+# 🛠️ Currently Building: FlashDock Platform
 
 <div align="center">
 
-### `Yukishell`
+### `FlashDock`
 
-Next-gen terminal for people who use the terminal for fun & ease.
+FlashDock Platform, a premium terminal framework made especially for microcontrollers.
 
-`C` • `Linux` • `Shell Internals` • `Terminal UI`
+`Rust` • `Shell` • `Python` • `Terminal` • `Microcontroller`
 
 ---
 
@@ -158,109 +155,3 @@ Next-gen terminal for people who use the terminal for fun & ease.
 * Learning models
 * Knowledge verification
 * Autonomous reasoning
-
----
-
-# 🌱 Currently Learning
-
-```txt
-> Linux Kernel Internals
-> Embedded Linux Development
-> FreeRTOS & RTOS Concepts
-> Cybersecurity & System Security
-> Device Driver Development
-> GitHub Actions & CI/CD
-> Edge AI & TinyML
-> Open Source Contribution Workflow
-```
-
----
-
-# 🎯 Goals
-
-* Contribute to Linux & Open Source
-* Build advanced embedded/Linux projects
-* Become an Embedded Linux Engineer
-* Create AI-powered system tools
-* Learn low-level systems programming
-* Contribute to cybersecurity tooling
-* Build developer-focused platforms
-
----
-
-# 🐧 Open Source Journey
-
-```txt
-Current Mission:
-Learn → Build → Contribute → Collaborate → Maintain
-```
-
-Planning to contribute to:
-
-* Linux ecosystem projects
-* Embedded tooling
-* Security tools
-* Developer utilities
-* AI + Linux integrations
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiCodepth\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiCodepth\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# ⚙️ Developer Philosophy
-
-```cpp
-while(alive){
-    learn();
-    build();
-    break_things();
-    fix_things();
-    contribute();
-}
-```
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60px"/>
-
-*kernel is compiling your stats...*
-
-</div>
-```
-
-## Extra Suggestions
-
-### Repositories you should create next
-
-* `linux-notes`
-* `rtos-playground`
-* `embedded-linux-lab`
-* `cybersec-labs`
-* `kernel-learning`
-* `iot-security-lab`
-* `firmware-ci-cd`
-
-### Things that will make your GitHub look advanced
-
-* GitHub Actions CI/CD
-* Proper README diagrams
-* Project screenshots
-* Architecture diagrams
-* Releases & tags
-* Contribution heat consistency
-* Good documentation
-* Open-source pull requests
-* GitHub Pages portfolio
-* Writing technical blogs
