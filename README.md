@@ -89,7 +89,6 @@ FlashDock Platform, a premium terminal framework made especially for microcontro
 * Shell architecture
 * Process handling
 * Terminal tooling
-* 
 ---
 
 ## 🔹 [Autonomous Learning Agent](https://github.com/YukiCodepth/Designing-an-Autonomous-Learning-Agent-with-Checkpoint-Verification-and-Feynman-Pedagogy)
