@@ -1,8 +1,2 @@
-<div align="center">
-
-```text
-======================================================================
-                      WELCOME TO AMAN'S GITHUB
-======================================================================
-
-> I MAKE HARDWARE THINK LIKE AI.
+```text ====================================================================== AMAN'S GITHUB ====================================================================== > I MAKE HARDWARE THINK LIKE AI. ```
+**B.Tech Electronics & Communication Engineering | Class of 2028**
